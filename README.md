@@ -54,6 +54,8 @@
 
 
 ### Тестирование
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ef25b80-74e0-4ba3-aeba-0cf6b95a6917" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee7c0fec-baad-495f-a8a2-d0d4649b40a0" />
 
 
 
@@ -112,3 +114,6 @@
 
 
 ### Тестирование
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0291c7b4-9bcf-40e8-a391-f57c389927da" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/81e4fa83-23d3-43e3-b65f-8275ba25c0b7" />
+
