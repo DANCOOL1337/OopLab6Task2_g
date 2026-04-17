@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BOSS\\source\\repos\\OopLab6Task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF76D77C-668A-F81E-6EE4-03F5E1D16D19}|OopLab6Task2\\OopLab6Task2.csproj|c:\\users\\boss\\source\\repos\\ooplab6task2\\ooplab6task2\\linesegment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF76D77C-668A-F81E-6EE4-03F5E1D16D19}|OopLab6Task2\\OopLab6Task2.csproj|solutionrelative:ooplab6task2\\linesegment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF76D77C-668A-F81E-6EE4-03F5E1D16D19}|OopLab6Task2\\OopLab6Task2.csproj|c:\\users\\boss\\source\\repos\\ooplab6task2\\ooplab6task2\\inputdatawithcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF76D77C-668A-F81E-6EE4-03F5E1D16D19}|OopLab6Task2\\OopLab6Task2.csproj|solutionrelative:ooplab6task2\\inputdatawithcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF76D77C-668A-F81E-6EE4-03F5E1D16D19}|OopLab6Task2\\OopLab6Task2.csproj|c:\\users\\boss\\source\\repos\\ooplab6task2\\ooplab6task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF76D77C-668A-F81E-6EE4-03F5E1D16D19}|OopLab6Task2\\OopLab6Task2.csproj|solutionrelative:ooplab6task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InputDataWithCheck.cs",
+              "DocumentMoniker": "C:\\Users\\BOSS\\source\\repos\\OopLab6Task2\\OopLab6Task2\\InputDataWithCheck.cs",
+              "RelativeDocumentMoniker": "OopLab6Task2\\InputDataWithCheck.cs",
+              "ToolTip": "C:\\Users\\BOSS\\source\\repos\\OopLab6Task2\\OopLab6Task2\\InputDataWithCheck.cs",
+              "RelativeToolTip": "OopLab6Task2\\InputDataWithCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T19:54:41.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LineSegment.cs",
+              "DocumentMoniker": "C:\\Users\\BOSS\\source\\repos\\OopLab6Task2\\OopLab6Task2\\LineSegment.cs",
+              "RelativeDocumentMoniker": "OopLab6Task2\\LineSegment.cs",
+              "ToolTip": "C:\\Users\\BOSS\\source\\repos\\OopLab6Task2\\OopLab6Task2\\LineSegment.cs",
+              "RelativeToolTip": "OopLab6Task2\\LineSegment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T19:54:22.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BOSS\\source\\repos\\OopLab6Task2\\OopLab6Task2\\Program.cs",
+              "RelativeDocumentMoniker": "OopLab6Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\BOSS\\source\\repos\\OopLab6Task2\\OopLab6Task2\\Program.cs",
+              "RelativeToolTip": "OopLab6Task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T19:54:03.186Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

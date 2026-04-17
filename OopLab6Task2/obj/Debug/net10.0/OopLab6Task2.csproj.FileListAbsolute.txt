@@ -1,0 +1,14 @@
+C:\Users\kozin\source\repos\OopLab6Task2\OopLab6Task2\bin\Debug\net10.0\OopLab6Task2.exe
+C:\Users\kozin\source\repos\OopLab6Task2\OopLab6Task2\bin\Debug\net10.0\OopLab6Task2.deps.json
+C:\Users\kozin\source\repos\OopLab6Task2\OopLab6Task2\bin\Debug\net10.0\OopLab6Task2.runtimeconfig.json
+C:\Users\kozin\source\repos\OopLab6Task2\OopLab6Task2\bin\Debug\net10.0\OopLab6Task2.dll
+C:\Users\kozin\source\repos\OopLab6Task2\OopLab6Task2\bin\Debug\net10.0\OopLab6Task2.pdb
+C:\Users\kozin\source\repos\OopLab6Task2\OopLab6Task2\obj\Debug\net10.0\OopLab6Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kozin\source\repos\OopLab6Task2\OopLab6Task2\obj\Debug\net10.0\OopLab6Task2.AssemblyInfoInputs.cache
+C:\Users\kozin\source\repos\OopLab6Task2\OopLab6Task2\obj\Debug\net10.0\OopLab6Task2.AssemblyInfo.cs
+C:\Users\kozin\source\repos\OopLab6Task2\OopLab6Task2\obj\Debug\net10.0\OopLab6Task2.csproj.CoreCompileInputs.cache
+C:\Users\kozin\source\repos\OopLab6Task2\OopLab6Task2\obj\Debug\net10.0\OopLab6Task2.dll
+C:\Users\kozin\source\repos\OopLab6Task2\OopLab6Task2\obj\Debug\net10.0\refint\OopLab6Task2.dll
+C:\Users\kozin\source\repos\OopLab6Task2\OopLab6Task2\obj\Debug\net10.0\OopLab6Task2.pdb
+C:\Users\kozin\source\repos\OopLab6Task2\OopLab6Task2\obj\Debug\net10.0\OopLab6Task2.genruntimeconfig.cache
+C:\Users\kozin\source\repos\OopLab6Task2\OopLab6Task2\obj\Debug\net10.0\ref\OopLab6Task2.dll

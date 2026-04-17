@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "OopLab6Task2/1.0.0": {
+        "runtime": {
+          "OopLab6Task2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OopLab6Task2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
