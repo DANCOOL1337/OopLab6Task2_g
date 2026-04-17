@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace OopLab6
 {
@@ -7,7 +7,8 @@ namespace OopLab6
         static public double InputDouble(string msg)
         {
             double res;
-            while (!double.TryParse(Console.ReadLine(), out res))
+            while (!double.
+                TryParse(Console.ReadLine(), out res))
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Ошибка! Введите число.");
@@ -23,7 +24,8 @@ namespace OopLab6
             while (!int.TryParse(Console.ReadLine(), out res))
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("Ошибка! Введите целое число.");
+                Console.WriteLine("Ошибка! " +
+                    "Введите целое число.");
                 Console.ResetColor();
                 Console.WriteLine(msg);
             }
